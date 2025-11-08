@@ -1,4 +1,4 @@
-# 💬 Customer Support CSAT Prediction and Analysis
+# 💬 Flipkar-analysis-and-machine-learning-project
 
 A comprehensive data analysis and predictive modeling project focused on understanding the drivers of **Customer Satisfaction (CSAT)** in a customer support environment. This project covers deep exploratory data analysis (EDA) on support interactions and develops a Machine Learning model to predict CSAT scores based on support metrics.
 
@@ -29,7 +29,7 @@ The analysis was performed on **85,885 records** of customer support interaction
 
 ## 🤖 Machine Learning Model Performance
 
-An **XGBoost Classifier** was chosen for this project due to its robust performance on structured, imbalanced data. The problem was treated as a multi-class classification task (predicting CSAT scores 1 through 5).
+An **XGBoost Classifier** and **logistic regression ** was chosen for this project due to its robust performance on structured, imbalanced data. The problem was treated as a multi-class classification task (predicting CSAT scores 1 through 5).
 
 | Metric | Model Performance | Interpretation |
 | :--- | :--- | :--- |
